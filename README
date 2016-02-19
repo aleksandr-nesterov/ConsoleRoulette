@@ -1,0 +1,3 @@
+ Java 1.7 is required.
+ Please set a valid file location and a maximum bet sum in config.properties
+ Please run a Launcher class to start a roulette game
